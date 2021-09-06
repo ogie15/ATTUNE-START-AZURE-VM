@@ -32,7 +32,7 @@ if ($Script:ValueProcessEP -eq 0) {
 
 #Region Start Azure VM
 # ===========================================================================
-# Import Module for AWS PowerShell
+# Import Module for Az PowerShell
 Import-Module -Name Az
 
 
