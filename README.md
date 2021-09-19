@@ -1,1 +1,3 @@
-# This is a Blueprint for booting single or multiple Azure Virtual Machines
+# Start Azure Virtual Machine
+
+This is a Blueprint for starting single or multiple Azure Virtual Machines
