@@ -23,8 +23,6 @@ They provide on-demand and scalable computing resources with usage-based pricing
 @('VMOne', 'VMTwo', 'VMThree')
 ```
 
-**NOTE**: *The `Azure Virtual Machine Names` are gotten from the Array created in Attune.*
-
 ---
 
 ## Blueprint Steps
