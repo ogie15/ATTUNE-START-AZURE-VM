@@ -17,7 +17,7 @@ They provide on-demand and scalable computing resources with usage-based pricing
 
 ---
 
-*Array Syntax:*
+*AzureVmNames Syntax:*
 
 ```powershell
 @('VMOne', 'VMTwo', 'VMThree')
