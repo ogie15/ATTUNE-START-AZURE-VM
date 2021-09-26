@@ -63,7 +63,6 @@ foreach ($item in $Script:AzureVmNames) {
 
     # Start the Azure VM
     Start-AzVM -ResourceGroupName $Script:AzVm.ResourceGroupName -Name $Script:AzVm.Name -NoWait -Confirm:$false
-
 }
 #EndRegion Start Azure VM
 

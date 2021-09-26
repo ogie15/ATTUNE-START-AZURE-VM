@@ -1,10 +1,10 @@
 # This step starts the Azure Virtual Machine(s)
 
-The script first gets the execution policy of the current PowerShell session.
+The Blueprint first gets the Execution Policy of the current PowerShell session.
 
-Then checks if the execution policy is set to Unrestricted.
+Then checks if the Execution Policy is set to Unrestricted.
 
-If it's not, it then sets the execution policy to Unrestricted for the current session.
+If it's not, it then sets the Execution Policy to Unrestricted for the current session.
 
 Next, the AzPowerShell module is imported to the current session.
 
